@@ -6,7 +6,7 @@
 
 <p align="center">
   
-<img width="733" alt="Attack-Map_1-3-2025" src="https://github.com/user-attachments/assets/d01b75b4-0bbb-417a-a516-1ed42fa3ed1c" />
+<img height="85%" width="85%" alt="Attack-Map_1-3-2025" src="https://github.com/user-attachments/assets/d01b75b4-0bbb-417a-a516-1ed42fa3ed1c" />
 
 </p>
 
