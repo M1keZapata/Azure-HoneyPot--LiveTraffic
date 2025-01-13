@@ -1,6 +1,6 @@
-<h1>Azure Honeypot Home Lab</h1>
+<h1>AZURE HONEYPOT HOME LAB</h1>
 
-<h2>Description</h2>
+<h2>Overview</h2>
 <b>This project demonstrates the process of how I was able to log and visualize malicious attacks to Windows Virtual Machine created in Microsoft Azure
 </b>
 
