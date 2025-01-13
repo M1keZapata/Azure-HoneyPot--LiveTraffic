@@ -5,7 +5,7 @@
 </b>
 
 <p align="center">
-<img src="https://imgur.com/WnbHbFC" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://imgur.com/WnbHbFC" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 
 <h2>Languages Used</h2>
