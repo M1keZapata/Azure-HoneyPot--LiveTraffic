@@ -10,7 +10,7 @@
 
 
 <h2>Languages Used</h2>
-- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer
+- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer <br>
 - <b>KQL:</b> Parse raw data fron extracted failed RDP logons
 
 <h2>Utilities Used</h2>
