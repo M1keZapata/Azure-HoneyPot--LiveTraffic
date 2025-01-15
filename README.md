@@ -22,7 +22,7 @@
 
 <h2>Project Walkthrough</h2>
 <h3>Microsoft Azure: Creating a Virtual Machine</h3>
-<p>Microsoft Azure allowed me to quickly create and access machines that I can intentionally make susceptible to virtual attacks [i.e. a honeypot]. I created this virtual machine to run Windows 10, allow port 3389 access, and defaulted to all other minimal security settings available within this Azure account. </p>
+<p>Through Microsoft Azure I was able to quickly create and access machines that I can intentionally make susceptible to virtual attacks [i.e. a honeypot]. I created this virtual machine to run Windows 10, allow port 3389 access, and defaulted to all other minimal security settings available within this Azure account. </p>
 
 <p align="center">
 <img height="85%" width="85%" alt="Screenshot 2025-01-14 at 3 11 48 PM" src="https://github.com/user-attachments/assets/4e3a89d5-a5df-42fb-ab3a-1fc9c11f482c" />
