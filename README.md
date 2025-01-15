@@ -1,7 +1,7 @@
 <h1>AZURE HONEYPOT HOME LAB</h1>
 
 <h2>Overview</h2>
-<p>This project demonstrates the process of how I was able to create, log and visualize malicious attacks to Windows Virtual Machine created in Microsoft Azure.
+<p>This project demonstrates the process of how I was able to create, log and visualize malicious attacks on a Windows Virtual Machine created in Microsoft Azure.
 </p>
 
 <p align="center">
